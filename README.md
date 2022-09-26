@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pfranz1
-- 👀 I’m interested in human effiency and AI
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in programming! 
+- 🌱 I’m currently working with Flutter on an app
 - 📫 How to reach me pfranz1@lsu.edu
 
 <!---
