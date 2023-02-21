@@ -14,7 +14,7 @@ My favorite language is Dart / Flutter. Null safety, named parameters, first cla
 
 My least favorite language  is Scheme48. It beat me up while writing an interpreter for it in Programing Languages class. It really makes me appreciate modern langauges.
 
-Im very pleased with how an app to help my bestfried who is a swim coach came together. Its still a work in progress and I can't wait to have more time to devote to it. Elapsed: https://pfranz1.github.io/swim_timer/#/
+Im very pleased with how an app to help my best friend who is a swim coach came together. Its still a work in progress and I can't wait to have more time to devote to it. Elapsed: https://pfranz1.github.io/swim_timer/#/
 
 <!---
 pfranz1/pfranz1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
