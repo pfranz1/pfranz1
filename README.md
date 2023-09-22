@@ -3,7 +3,7 @@
 - 🌱 I’m currently working improving an experimental HPC cloud-platform, and preparing to present at WAMTA 2023.
 - 📫 How to reach me pfranz1@lsu.edu
 
-I love to write code. Its my favoirte activity. Its a combination of three things I love:
+I love to write code. Its my favorite activity. Its a combination of three things I love:
 * Puzzle solving
 * Longterm strategizing
 * Creating neat things
