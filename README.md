@@ -12,8 +12,6 @@ Im a aspire to be a full stack developer, and I enjoy the challange and perspect
 
 My favorite language is Dart / Flutter. Null safety, named parameters, first class fuction objects, and autoformating make it such a joy to work with.
 
-My least favorite language  is Scheme48. It beat me up while writing an interpreter for it in Programing Languages class. It really makes me appreciate modern langauges.
-
 Im very pleased with how an app to help my best friend who is a swim coach came together. Its still a work in progress and I can't wait to have more time to devote to it. Elapsed: https://pfranz1.github.io/swim_timer/#/
 
 <!---
